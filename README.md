@@ -1,5 +1,5 @@
 # CLI Comands 
-Terminal commands to projects
+Terminal commands to projects with interactive terminal
 
 ## List of commands
 - Build
